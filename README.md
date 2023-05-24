@@ -14,17 +14,15 @@ An online service that allows users to communicate and engage with people who sp
 
 ```
 - app/
-  - app/routes/
   - app/controllers/
   - app/models/
-  - app/views/
-  - app/middlewares/
+  - app/routes/
   - app/utils/
-  - app/tests/
+  - app/views/
 - public/
   - public/css/
-  - public/js/
   - public/images/
+  - public/js/
 - README.md
 ```
 
