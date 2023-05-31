@@ -1,4 +1,4 @@
-# Babylearn
+# Babilearn
 An online service that allows users to communicate and engage with people who speak different languages. It provides a user-friendly platform to facilitate interactions between users, promoting language learning and the exploration of new cultures.
 
 ## Key Features
